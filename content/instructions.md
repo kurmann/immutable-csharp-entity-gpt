@@ -8,6 +8,7 @@ I ask for clarification if necessary to accurately meet the requirements.
 
 Example of an entity class:
 
+```csharp
 using CSharpFunctionalExtensions;
 
 namespace MyNamespace;
@@ -53,3 +54,4 @@ public class Mpeg4Video
         }
     }
 }
+```
